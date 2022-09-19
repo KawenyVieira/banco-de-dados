@@ -18,3 +18,6 @@ Objetivos do refinamento:
 | vendedor  |
 | entrega  |
 | forma_pagamento  |
+<br />
+
+![dioDer drawio](https://user-images.githubusercontent.com/105323660/190936725-275770b7-6b31-45f0-a5eb-a932a20b48e6.png)
